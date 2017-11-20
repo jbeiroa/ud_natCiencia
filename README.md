@@ -1,5 +1,4 @@
-# ud_natCiencia
-Una Unidad Didáctica de Naturaleza de las Ciencias
+# Una Unidad Didáctica de Naturaleza de las Ciencias
 
 
 En este repositorio se encuentran todos los archivos relacionados con la Unidad Didáctica **"¿Qué puede hacer la ciencia con la próxima catástrofe?"**.
